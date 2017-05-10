@@ -1,0 +1,21 @@
+{
+  "name": "JumpAndMerge",
+  "version": "1.0.0",
+  "description": "Allow you Jump and Merge",
+  "main": "src/cwLayoutJumpAndMerge.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nevakee716/JumpAndMerge.git"
+  },
+  "author": "Jerome Grondin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nevakee716/JumpAndMerge/issues"
+  },
+  "homepage": "https://github.com/nevakee716/JumpAndMerge/wiki",
+  "wiki": "https://github.com/nevakee716/JumpAndMerge/wiki",
+  "evolve-version": "3.0 - 4.1"
+}
