@@ -12,7 +12,7 @@ Allow you to not display some level of associations, so you can display indirect
 
 ## Node Configuration
 
-<img src="https://raw.githubusercontent.com/nevakee716/JumpAndMerge/master/screen/1.jpg" alt="Drawing" style="width: 95%;"/>
+<img src="https://raw.githubusercontent.com/nevakee716/JumpAndMerge/master/screen/1.png" alt="Drawing" style="width: 95%;"/>
 
 ## Warning 
 
